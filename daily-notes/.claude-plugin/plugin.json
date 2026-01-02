@@ -1,0 +1,15 @@
+{
+    "author": {
+        "name": "h-wata"
+    },
+    "description": "Commands for logging work notes to Obsidian Daily notes",
+    "keywords": [
+        "obsidian",
+        "daily-notes",
+        "memo",
+        "work-log"
+    ],
+    "license": "MIT",
+    "name": "daily-notes",
+    "version": "1.0.0"
+}
