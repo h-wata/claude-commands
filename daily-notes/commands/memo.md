@@ -1,14 +1,17 @@
 ---
 description: Quick memo to Obsidian Daily note
-allowed-tools: Bash
+allowed-tools: Bash, Read
 ---
 
-Append the following memo to ~/Documents/my-obsidian/Daily/$(date +%Y-%m-%d).md
+First, read the config file at ${CLAUDE_PLUGIN_ROOT}/config.json to get the `obsidian_daily_path`.
+
+Then append the following memo to {obsidian_daily_path}/$(date +%Y-%m-%d).md
 
 ## Steps
-1. Create file if it doesn't exist
-2. Add timestamp heading (HH:MM format)
-3. Append to end of file
+1. Read config.json to get output path
+2. Create file if it doesn't exist
+3. Add timestamp heading (HH:MM format)
+4. Append to end of file
 
 ## Memo content
 $ARGUMENTS
