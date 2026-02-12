@@ -1,0 +1,15 @@
+{
+    "author": {
+        "name": "h-wata"
+    },
+    "description": "ROS2 and Kachaka API log analysis commands",
+    "keywords": [
+        "ros2",
+        "kachaka",
+        "log-analysis",
+        "fleet"
+    ],
+    "license": "MIT",
+    "name": "ros-tools",
+    "version": "1.0.0"
+}

@@ -1,0 +1,15 @@
+{
+    "author": {
+        "name": "h-wata"
+    },
+    "description": "Interview-style note taking to extract and structure ideas",
+    "keywords": [
+        "interview",
+        "brainstorm",
+        "memo",
+        "retrospective"
+    ],
+    "license": "MIT",
+    "name": "interview",
+    "version": "1.0.0"
+}

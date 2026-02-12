@@ -1,0 +1,15 @@
+{
+    "author": {
+        "name": "h-wata"
+    },
+    "description": "Git history investigation and change tracking commands",
+    "keywords": [
+        "git",
+        "history",
+        "blame",
+        "diff"
+    ],
+    "license": "MIT",
+    "name": "git-tools",
+    "version": "1.0.0"
+}

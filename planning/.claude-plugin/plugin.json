@@ -1,0 +1,14 @@
+{
+    "author": {
+        "name": "h-wata"
+    },
+    "description": "Interactive planning with clarifying questions",
+    "keywords": [
+        "planning",
+        "requirements",
+        "task-management"
+    ],
+    "license": "MIT",
+    "name": "planning",
+    "version": "1.0.0"
+}
